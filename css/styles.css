@@ -1,0 +1,19 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+body {
+  background-image: url("../images/back.jpg");
+  opacity: 30%;
+}
+.entry_form {
+  text-align: center;
+}
+
+#input_form {
+  padding: 12px 80px;
+  border-radius: 10%;
+  margin: 1%;
+  border: 2px solid maroon;
+}
