@@ -11,9 +11,23 @@ body {
   text-align: center;
 }
 
-#input_form {
-  padding: 12px 80px;
+.input_form {
+  padding: 8px 80px;
   border-radius: 10%;
   margin: 1%;
-  border: 2px solid maroon;
+  border: 2px solid skyblue;
+}
+
+#btn{
+  background-color: green;
+  border-radius: 4px;
+  text-align: center;
+  width: 20%;
+  padding: 8px;
+  color: white;
+  margin-top: 8px;
+  font-family: sans-serif;
+}
+#btn: hover {
+color: red;
 }
