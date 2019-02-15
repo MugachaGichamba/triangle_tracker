@@ -9,6 +9,12 @@ function getTriangle() {
   (second_side + third_side <= first_side) ||
   (first_side + third_side <= second_side)){
     alert("Not a triangle");
+  } else if (first_side === second_side && second_side === third_side){
+    alert("It is an equilateral triangle")
+  } else if (first_side === second_side || second_side === third_side || first_side === third_side){
+    alert("It is an isosceles triangle")
+  } else {
+    alert("It is a scarlene triangle");
   }
 
 }
