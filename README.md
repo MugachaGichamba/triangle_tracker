@@ -23,5 +23,6 @@
 ## 4. The program recognizes a Scalene triangle:
 #### Input Example: 7, 8, 9
 #### Output Example: "It is a scalene triangle"
+## License and Copyright Information
 #### MIT License
 #### Copyright (c) 2019 Mugacha Gichamba.
