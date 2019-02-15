@@ -1,23 +1,27 @@
 <!DOCTYPE html>
 <html>
-  <head>
-
+  <head
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="css/styles.css">
     <title>Traingle Tracker</title>
   </head>
   <body>
-    <h1>Enter 3 Sides of any triangle you wish to check</h1>
-    <div class="entry_form">
-      <form>
-        <br>First Side:<br>
-        <input type="text" id="first">
-        <br>Second Side:<br>
-        <input type="text"  id="second">
-        <br>Third Side:<br>
-        <input type="text"  id="third">
-        <button id="btn">Submit</button>
-      </form>
-    </div>
+    <div class="container">
+      <h1 class="main_heading">Enter 3 Sides of any triangle you wish to check</h1>
+      <div class="entry_form">
+        <form id="form_class">
+          <br>First Side:<br>
+          <input type="number" id="first" class="input_form">
+          <br>Second Side:<br>
+          <input type="number"  id="second" class="input_form">
+          <br>Third Side:<br>
+          <input type="number"  id="third" class="input_form">
 
+        </form>
+        <button id="btn">SUBMIT</button>
+      </div>
+      <h1 id="result"></h1>
+    </div>
   </body>
   <script type="text/javascript" src="js/scripts.js"></script>
 </html>

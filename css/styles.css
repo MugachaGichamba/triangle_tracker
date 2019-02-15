@@ -4,14 +4,14 @@
   text-align: center;
   text-decoration: underline;
   padding: 5px;
-  text-decoration-color: skyblue
-  font-family : helvetica;
+  text-decoration-color: skyblue;
 }
 
 body {
   background-image: url("../images/back.jpg");
   opacity: 30%;
 }
+
 .entry_form {
   text-align: center;
 }
@@ -32,7 +32,9 @@ body {
   color: white;
   margin-top: 8px;
   font-family: sans-serif;
+  border-color: skyblue;
 }
+
 #btn: hover {
 color: red;
 }
