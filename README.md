@@ -11,17 +11,17 @@
 #### 3. The device must have a modern browser e,g chrome, edge, mozilla.
 #### 4. to view the website visit https://mugachagichamba.github.io/triangle_tracker/
 ## BDD
-#### 1. The program recognizes a non valid triangle:
-### Input Example: 9, 4, 3
-### Output Example: "Not a Triangle"
-#### 2. The program recognizes an equilateral triangle:
-### Input Example: 6, 6, 6
-### Output Example: "It is an equilateral triangle"
-#### 3. The program recognizes an isosceles triangle:
-### Input Example: 8, 8, 4
-### Output Example: "It is an isosceles triangle
-#### 3. The program recognizes a Scalene triangle:
-### Input Example: 7, 8, 9
-### Output Example: "It is a scalene triangle"
-##### MIT License
-##### Copyright (c) 2019 Mugacha Gichamba.
+## 1. The program recognizes a non valid triangle:
+#### Input Example: 9, 4, 3
+#### Output Example: "Not a Triangle"
+## 2. The program recognizes an equilateral triangle:
+#### Input Example: 6, 6, 6
+#### Output Example: "It is an equilateral triangle"
+## 3. The program recognizes an isosceles triangle:
+#### Input Example: 8, 8, 4
+#### Output Example: "It is an isosceles triangle
+## 4. The program recognizes a Scalene triangle:
+#### Input Example: 7, 8, 9
+#### Output Example: "It is a scalene triangle"
+#### MIT License
+#### Copyright (c) 2019 Mugacha Gichamba.
