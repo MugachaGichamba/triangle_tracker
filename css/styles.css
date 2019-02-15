@@ -1,10 +1,11 @@
-h1 {
+.main_heading {
   padding-bottom: 5px;
   color: black;
   text-align: center;
   text-decoration: underline;
   padding: 5px;
-  text-decoration-color: skyblue;
+  text-decoration-color: skyblue
+  font-family : helvetica;
 }
 
 body {
@@ -34,4 +35,10 @@ body {
 }
 #btn: hover {
 color: red;
+}
+
+#result {
+  text-align: center;
+  color: white;
+  background-color: black;
 }
